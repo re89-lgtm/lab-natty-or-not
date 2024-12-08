@@ -1,6 +1,3 @@
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 A Batalha de Natal: Papai Noel Vs Krampus
 
@@ -16,9 +13,9 @@ editor de texto Documentos do Google para edição final do livro.
 Utilizei o ChatGPT para a criação do texto e revisão dos parágrafos buscando criar mais detalhes da história, em seguida o Bing foi usado para criação da arte representativa do livro e por último, o Documentos do Google para a edição final, aproveitando que é uma ferramenta de edição gratuita e online.
 
 ## 🚀 Resultados
-O livro apresenta conteúdo que pode ser lido para todas as idades
+O livro apresenta conteúdo que pode ser lido para todas as idades, acesse em:
 
-
+[A Batalha de Natal Papai Noel vs Krampus](https://docs.google.com/document/d/1ltjVgnjugl3SgC2EPWXsDy_MLtB7motLEORl6DyuVG0/edit?usp=drive_link)
 
 ## 💭 Reflexão (Opcional)
 Foi bem interessante ver o poder da IA Generativa ao criar toda uma história a partir de uma simples ideia de uma batalha entre dois personagens. A partir daí pude presenciar a criação de mais personagens e objetos relevantes ao tema da história, sem ter nenhum personagem solto que pudesse parecer fora de contexto.
