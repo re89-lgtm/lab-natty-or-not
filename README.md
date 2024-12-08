@@ -20,14 +20,4 @@ O livro apresenta conteúdo que pode ser lido para todas as idades, acesse em:
 ## 💭 Reflexão (Opcional)
 Foi bem interessante ver o poder da IA Generativa ao criar toda uma história a partir de uma simples ideia de uma batalha entre dois personagens. A partir daí pude presenciar a criação de mais personagens e objetos relevantes ao tema da história, sem ter nenhum personagem solto que pudesse parecer fora de contexto.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
